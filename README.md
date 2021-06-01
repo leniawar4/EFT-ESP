@@ -10,3 +10,6 @@ How to using
 6. After starting the game, click " inject File"
 7. After closing the game, click " Reinject File"
 8. Also clean the "Logs" folder"
+
+
+![image](https://user-images.githubusercontent.com/53483381/120295733-46884100-c27c-11eb-9e38-3bebe0fc8039.png)
